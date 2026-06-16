@@ -1,12 +1,13 @@
 # RFC-001 · Eren Dhoheiri
-**Status:** `ACTIVE` · **Version:** `7.0.0` · **Last updated:** `2025`
+**Status:** `ACTIVE` · **Version:** `7.2.0` · **Last updated:** `2025`
 
 ---
 
 ## Overview
 
-An Engineering Lead optimized for building SaaS products, scaling teams, and delivering systems that support real business growth.
-Operates at the intersection of engineering, product, and operations. Effective across the full stack of leadership — from architecture decisions to team culture.
+A Software Engineering Lead optimized for building SaaS products, scaling engineering teams, and delivering systems that support real business growth.
+
+Operates at the intersection of engineering, product, and operations. Effective across the full stack of leadership — from architecture decisions to people development.
 
 ---
 
@@ -14,10 +15,11 @@ Operates at the intersection of engineering, product, and operations. Effective 
 
 | Property | Value |
 |---|---|
-| Type | Engineering Lead |
+| Type | Software Engineering Lead |
 | Experience | 7+ years |
+| Current role | Engineering Squad Lead · ESB |
 | Availability | Open to connect |
-| Location | Indonesia |
+| Location | Tangerang, Indonesia |
 | Specialization | SaaS · Platform Engineering · Team Scaling |
 
 ---
@@ -37,11 +39,12 @@ Output → clear technical decisions, high-performing squad, shipped product
 - Engineering management & agile delivery
 - Software architecture & system design
 - Technical strategy & stakeholder alignment
-- Sprint planning & performance management
+- Sprint planning, metrics, and performance management
+- Engineer mentoring & career development
 
 ### Runtime
 - `Node.js` `Express` `Serverless` `REST` `Event-Driven`
-- `React` `Next.js` `TypeScript` `Redux`
+- `React` `Next.js` `TypeScript` `Redux` `Ant Design`
 - `AWS` `Lambda` `SNS/SQS` `Docker` `GitHub Actions`
 - `MySQL` `PostgreSQL`
 
@@ -50,17 +53,39 @@ Output → clear technical decisions, high-performing squad, shipped product
 ## Changelog
 
 ```
-v7.0.0  [2023–present]  Engineering Squad Lead @ ESB
-                        + Led squad of 9 engineers to 100% sprint completion
-                        + MySQL 8 migration with zero downtime
-                        + Reduced migration time: ~2h → <10min
+v7.2.0  [2025–present]  Engineering Squad Lead @ ESB
+                        + Led 9-engineer ERP squad to 100% sprint completion
+                        + MySQL 8 migration: zero downtime, zero data loss
+                        + Cut migration time: 1–2h → <10min across 10K+ client dbs
+                        + Rolling deployments: reduced CI/CD risk significantly
+                        + Built internal sprint monitoring system for data-driven decisions
 
-v6.0.0  [2021–2023]     Engineering Manager @ eFishery
-                        + Led team of 10 engineers
-                        + Shipped TMS handling hundreds of shipments/month
-                        + Internal tools adopted by 250+ employees
-                        + Introduced technical design review process
-                        + Shipped N engineers → senior level
+v7.1.0  [2024–2026]     Software Engineering Consultant @ Stealth
+                        + Architecture & scalability consulting
+                        + Technical strategy definition with stakeholders
+                        + Dev workflow bottleneck resolution
+
+v6.0.0  [2022–2025]     Engineering Manager @ eFishery
+                        + Led 10-engineer squad
+                        + Internal tools platform: 250+ employees adopted
+                        + TMS: hundreds of shipments/month, ↓ error rates
+                        + Feature delivery: concept → production avg 2 weeks
+                        + Mentored 2 engineers → senior (+25% team capacity)
+                        + Product output: +12% YoY growth
+
+v5.0.0  [2021–2022]     Frontend Engineer @ eFishery
+v4.0.0  [2021]          Full Stack Engineer @ Bizzy Indonesia
+                        + Supply mgmt app: 150+ stakeholders, 95% on-time releases
+                        + AWS Lambda: 1M+ transactions/month @ 99.9% availability
+                        + UI load time: ↓ 15%+ with Ant Design
+
+v3.0.0  [2020–2021]     Frontend Engineer @ Kompas Gramedia
+                        + Projects: mykg.id, PPKG, Bentara Budaya Jakarta
+                        + Component library: 10+ reusable UI modules
+                        + 100% on-time delivery across 5+ major releases
+
+v2.0.0  [2020–2021]     Software Engineer @ Celerates
+v1.0.0  [2018]          Business Analyst Intern @ Domosquare
 ```
 
 ---
@@ -70,9 +95,10 @@ v6.0.0  [2021–2023]     Engineering Manager @ eFishery
 ```yaml
 engineering_philosophy:
   - technology_alone: rarely solves problems
-  - best_teams: understand the business first
-  - delivery: clear communication + consistent value
-  - culture: sustainable > heroic
+  - best_teams: understand the business, communicate clearly
+  - delivery: disciplined sprints > heroic efforts
+  - people: context enables autonomous good decisions
+  - culture: sustainable practices over burnout cycles
 ```
 
 ---
@@ -84,15 +110,26 @@ platform-engineering    █████████░  active
 ai-for-software-dev     ████████░░  growing
 developer-experience    ████████░░  growing
 distributed-systems     ███████░░░  exploring
+engineering-playbooks   ██████░░░░  building
+```
+
+---
+
+## Dependencies
+
+```
+education: B.Econ, Business Administration · Universitas Muhammadiyah Yogyakarta
+languages: Indonesian (native) · English (working proficiency)
+certs:     React · JavaScript Algorithms · Firebase (Apps & Websites)
 ```
 
 ---
 
 ## Origin Story
 
-> Started on `business-administration` branch.  
+> Initialized on `business-administration` branch.  
 > Merged into `software-engineering` via unexpected PR.  
-> That diff still influences every architectural decision.
+> That diff still influences every architecture decision today.
 
 ---
 
@@ -102,9 +139,8 @@ distributed-systems     ███████░░░  exploring
 |---|---|
 | Email | dhoheiri@gmail.com |
 | LinkedIn | [linkedin.com/in/erendhoheiri](https://linkedin.com/in/erendhoheiri) |
-| Website | rndhri.com |
-
+| Personal Website | rndhri.com |
 ---
 
-> *"Great engineering is not only about writing code.*  
+> *"Great engineering is not only about writing code.*
 > *It's about creating systems, teams, and processes that scale."*
