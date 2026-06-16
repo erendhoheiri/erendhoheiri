@@ -1,49 +1,110 @@
-# Eren Dhoheiri
-
-Engineering Lead · 7+ years building SaaS products, scaling teams, and shipping systems that drive real business growth.
-
-I work at the intersection of engineering, product, and operations — from architecture decisions to mentoring engineers and building high-performing teams.
+# RFC-001 · Eren Dhoheiri
+**Status:** `ACTIVE` · **Version:** `7.0.0` · **Last updated:** `2025`
 
 ---
 
-## What I Do
+## Overview
 
-**Lead** · Engineering management, agile delivery, technical strategy, team mentoring  
-**Build** · Node.js, React, Next.js, TypeScript, REST APIs, Serverless, Event-Driven Systems  
-**Scale** · AWS, Docker, CI/CD, GitHub Actions, MySQL, PostgreSQL  
-
----
-
-## Experience
-
-**Engineering Squad Lead · ESB**  
-Leading 9 engineers with 100% sprint completion. Drove MySQL 8 migration strategy with zero downtime and cut migration time from ~2 hours to under 10 minutes.
-
-**Engineering Manager · eFishery**  
-Led 10 engineers. Delivered a Transport Management System handling hundreds of monthly shipments. Built internal tools used by 250+ employees. Mentored engineers to senior-level roles.
+An Engineering Lead optimized for building SaaS products, scaling teams, and delivering systems that support real business growth.
+Operates at the intersection of engineering, product, and operations. Effective across the full stack of leadership — from architecture decisions to team culture.
 
 ---
 
-## Currently Exploring
+## Specifications
 
-Platform Engineering · AI for Software Development · Developer Experience · Distributed Systems
-
----
-
-## Writing About
-
-Technical Leadership · Database Migrations · CI/CD · Architecture Decisions · Engineering Metrics
-
----
-
-## Connect
-
-📧 dhoheiri@gmail.com · [LinkedIn](https://linkedin.com/in/erendhoheiri)
+| Property | Value |
+|---|---|
+| Type | Engineering Lead |
+| Experience | 7+ years |
+| Availability | Open to connect |
+| Location | Indonesia |
+| Specialization | SaaS · Platform Engineering · Team Scaling |
 
 ---
 
-> "Great engineering is not only about writing code. It's about creating systems, teams, and processes that scale."
+## Interface
+
+```
+Input  → ambiguous problem, underperforming team, scaling challenge
+Output → clear technical decisions, high-performing squad, shipped product
+```
 
 ---
 
-*Started in Business Administration. Ended up leading engineering teams. That mix still shapes how I think about technology.*
+## Capabilities
+
+### Core
+- Engineering management & agile delivery
+- Software architecture & system design
+- Technical strategy & stakeholder alignment
+- Sprint planning & performance management
+
+### Runtime
+- `Node.js` `Express` `Serverless` `REST` `Event-Driven`
+- `React` `Next.js` `TypeScript` `Redux`
+- `AWS` `Lambda` `SNS/SQS` `Docker` `GitHub Actions`
+- `MySQL` `PostgreSQL`
+
+---
+
+## Changelog
+
+```
+v7.0.0  [2023–present]  Engineering Squad Lead @ ESB
+                        + Led squad of 9 engineers to 100% sprint completion
+                        + MySQL 8 migration with zero downtime
+                        + Reduced migration time: ~2h → <10min
+
+v6.0.0  [2021–2023]     Engineering Manager @ eFishery
+                        + Led team of 10 engineers
+                        + Shipped TMS handling hundreds of shipments/month
+                        + Internal tools adopted by 250+ employees
+                        + Introduced technical design review process
+                        + Shipped N engineers → senior level
+```
+
+---
+
+## Design Principles
+
+```yaml
+engineering_philosophy:
+  - technology_alone: rarely solves problems
+  - best_teams: understand the business first
+  - delivery: clear communication + consistent value
+  - culture: sustainable > heroic
+```
+
+---
+
+## Known Interests
+
+```
+platform-engineering    █████████░  active
+ai-for-software-dev     ████████░░  growing
+developer-experience    ████████░░  growing
+distributed-systems     ███████░░░  exploring
+```
+
+---
+
+## Origin Story
+
+> Started on `business-administration` branch.  
+> Merged into `software-engineering` via unexpected PR.  
+> That diff still influences every architectural decision.
+
+---
+
+## Contact
+
+| Channel | Value |
+|---|---|
+| Email | dhoheiri@gmail.com |
+| LinkedIn | [linkedin.com/in/erendhoheiri](https://linkedin.com/in/erendhoheiri) |
+| Website | rndhri.com |
+
+---
+
+> *"Great engineering is not only about writing code.*  
+> *It's about creating systems, teams, and processes that scale."*
