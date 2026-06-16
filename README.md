@@ -139,7 +139,7 @@ certs:     React · JavaScript Algorithms · Firebase (Apps & Websites)
 |---|---|
 | Email | dhoheiri@gmail.com |
 | LinkedIn | [linkedin.com/in/erendhoheiri](https://linkedin.com/in/erendhoheiri) |
-| Personal Website | rndhri.com |
+| Personal Website | https://rndhri.com |
 ---
 
 > *"Great engineering is not only about writing code.*
