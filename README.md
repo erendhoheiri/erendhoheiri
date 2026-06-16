@@ -1,155 +1,49 @@
-# Hi, I'm Eren Dhoheiri 👋
+# Eren Dhoheiri
 
-Engineering Lead with 7+ years of experience building SaaS products, scaling engineering teams, and delivering systems that support real business growth.
+Engineering Lead · 7+ years building SaaS products, scaling teams, and shipping systems that drive real business growth.
 
-I enjoy solving problems at the intersection of engineering, product, and operations. My work ranges from software architecture and platform engineering to mentoring engineers and helping teams deliver with clarity and confidence.
-
----
-
-## 🚀 What I Focus On
-
-- Engineering Leadership
-- Software Architecture
-- SaaS Platforms
-- System Scalability
-- Developer Productivity
-- CI/CD & Platform Engineering
-- Technical Strategy
-- Team Growth & Mentoring
+I work at the intersection of engineering, product, and operations — from architecture decisions to mentoring engineers and building high-performing teams.
 
 ---
 
-## 💼 Professional Highlights
+## What I Do
 
-### Engineering Squad Lead @ ESB
-
-- Leading an ERP engineering squad of 9 engineers
-- Achieved 100% sprint completion through process improvements
-- Contributed to MySQL 8 migration strategy with zero downtime
-- Reduced database migration time from 1–2 hours to under 10 minutes
-- Improved deployment reliability through rolling deployment strategies
-
-### Engineering Manager @ eFishery
-
-- Led a team of 10 engineers
-- Built internal tools adopted by 250+ employees
-- Delivered Transport Management System handling hundreds of shipments monthly
-- Introduced technical design review processes
-- Mentored engineers into senior-level positions
+**Lead** · Engineering management, agile delivery, technical strategy, team mentoring  
+**Build** · Node.js, React, Next.js, TypeScript, REST APIs, Serverless, Event-Driven Systems  
+**Scale** · AWS, Docker, CI/CD, GitHub Actions, MySQL, PostgreSQL  
 
 ---
 
-## 🏗️ Areas of Expertise
+## Experience
 
-### Leadership
+**Engineering Squad Lead · ESB**  
+Leading 9 engineers with 100% sprint completion. Drove MySQL 8 migration strategy with zero downtime and cut migration time from ~2 hours to under 10 minutes.
 
-- Engineering Management
-- Agile Delivery
-- Sprint Planning
-- Performance Management
-- Technical Mentoring
-- Stakeholder Management
-
-### Backend
-
-- Node.js
-- Express
-- Serverless Architecture
-- REST APIs
-- Event Driven Systems
-
-### Frontend
-
-- React
-- Next.js
-- TypeScript
-- Redux
-- Ant Design
-
-### Cloud & DevOps
-
-- AWS
-- Lambda
-- SNS
-- SQS
-- Docker
-- CI/CD
-- GitHub Actions
-
-### Database
-
-- MySQL
-- PostgreSQL
-- Database Migration
-- Performance Optimization
+**Engineering Manager · eFishery**  
+Led 10 engineers. Delivered a Transport Management System handling hundreds of monthly shipments. Built internal tools used by 250+ employees. Mentored engineers to senior-level roles.
 
 ---
 
-## 📈 Engineering Philosophy
+## Currently Exploring
 
-I believe great software comes from combining:
-
-- Clear technical decisions
-- Strong engineering culture
-- Sustainable delivery practices
-- Continuous learning
-
-Technology alone rarely solves problems.
-
-The best teams understand the business, communicate clearly, and consistently deliver value.
+Platform Engineering · AI for Software Development · Developer Experience · Distributed Systems
 
 ---
 
-## 📚 Current Interests
+## Writing About
 
-- Platform Engineering
-- Engineering Leadership
-- AI for Software Development
-- Developer Experience (DX)
-- Distributed Systems
-- SaaS Architecture
-- Technical Strategy
+Technical Leadership · Database Migrations · CI/CD · Architecture Decisions · Engineering Metrics
 
 ---
 
-## 📝 Technical Writing
+## Connect
 
-Topics I enjoy writing about:
-
-- Scaling Engineering Teams
-- Technical Leadership
-- Database Migration Strategies
-- CI/CD Improvements
-- Architecture Decision Records
-- Engineering Metrics
-- SaaS System Design
-
----
-
-## 🌱 Currently Building
-
-- Engineering Playbooks
-- System Design Case Studies
-- AI-Powered Internal Tools
-- Developer Productivity Solutions
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: dhoheiri@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/erendhoheiri
-
----
-
-## ⚡ Fun Fact
-
-I started my professional journey studying Business Administration and eventually found myself leading software engineering teams.
-
-That mix of business and engineering continues to shape how I approach technology decisions today.
+📧 dhoheiri@gmail.com · [LinkedIn](https://linkedin.com/in/erendhoheiri)
 
 ---
 
 > "Great engineering is not only about writing code. It's about creating systems, teams, and processes that scale."
+
+---
+
+*Started in Business Administration. Ended up leading engineering teams. That mix still shapes how I think about technology.*
